@@ -7,7 +7,7 @@ print(sum(23, 22));
 print(3); 
 print(matem(12, 6, 2)); 
 print(4);
-print(massiv([1,2,3,3,4,5])); 
+print(massiv([1,2,3,3,4,6,5])); 
 }
 // 1.Сделайте функцию, которая возвращает квадрат числа. 
 int findSquare (int num){
